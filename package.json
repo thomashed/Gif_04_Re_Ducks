@@ -1,7 +1,7 @@
 {
-  "homepage": "http://thomashed.github.io/gif_app_04",
+  "homepage": "https://thomashed.github.io/Gif_04_Re_Ducks/",
   "name": "gif_app_04",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
